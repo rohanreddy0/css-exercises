@@ -1,0 +1,19 @@
+.odd-element {
+    background-color: lightpink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#number-2 {
+    color: blue;
+    font-size: 36px;
+}
+
+.large-font {
+    font-size: 24px;
+}
+
+#number-4 {
+    background-color: chartreuse;
+    font-size: 24px;
+    font-weight: bold;
+}
